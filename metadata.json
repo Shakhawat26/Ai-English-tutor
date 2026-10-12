@@ -1,0 +1,6 @@
+{
+  "name": "RoboSpeak AI",
+  "description": "AI English speaking tutor with animated robot, voice conversation, Bengali explanations, grammar corrections, and daily practice for Bangladeshi learners.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
